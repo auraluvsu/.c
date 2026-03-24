@@ -1,0 +1,7 @@
+[
+  {
+    "directory": "/home/auraluvsu/projects/test",
+    "command": "clang -std=c17 -Wall -Wextra -Wpedantic -Iinclude -g main.c",
+    "file": "/home/auraluvsu/projects/test/main.c"
+  }
+]
